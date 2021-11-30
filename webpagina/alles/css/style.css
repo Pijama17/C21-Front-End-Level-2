@@ -89,4 +89,8 @@
             button:hover{
                 border: none;
             }
+            body {
+                background-image: url("/alles/image/OIP.png");
+                background-color: #cccccc;
+               }
             
