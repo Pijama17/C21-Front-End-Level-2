@@ -1,4 +1,7 @@
+
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1+Code:wght@300&display=swap');
 *{
+
     margin: 0;
     padding: 0;
      font-family: sans-serif;
@@ -93,4 +96,10 @@
                 background-image: url("/alles/image/OIP.png");
                 background-color: #cccccc;
                }
+               hr.two {
+                height: 5px;
+                border: none;
+                border-radius: 10px;
+                background: linear-gradient (to left, Oblue, Ored);
+            }
             
